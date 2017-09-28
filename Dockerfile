@@ -1,5 +1,7 @@
 from centos:centos7
 
+MAINTAINER Name mayurdb31@gmail.com
+
 USER root
 
 RUN yum install -y wget 
